@@ -1,5 +1,12 @@
-# Friends of Happy Gardens (review draft)
+# Friends of Happy Gardens
+
 Static donor site for Happy Gardens Community School (Lydia Awuor Onyango, Dagoretti South, Nairobi).
-Built from the Teso site template. Edit config.js: set paymentLink once Lydia confirms her M-Changa link; set HG_REVIEW_MODE=false to hide the banner and [TO CONFIRM] tags.
-Add photos to img/ and set data-src on .ph elements. Only use photos Lydia sends, with parent consent for children.
-Not published anywhere yet.
+
+Lydia approved the site and the name “Friends of Happy Gardens” on November 17, 2026.
+
+Online donations go through No End To Love on Every.org, which accepts gifts on the school’s behalf:
+https://www.every.org/noendtolove/f/every-child-deserves
+
+Edit `config.js` for `paymentLink` and `donorEmail`. Set `HG_REVIEW_MODE=true` to show the review banner and [TO CONFIRM] tags.
+
+Photos on the site are shared with parents’ written consent.

@@ -131,3 +131,14 @@ address{font-style:normal;font-size:1.05rem}
 blockquote.lydia{margin:20px 0;padding:14px 20px;border-left:5px solid var(--gold);background:#fff;border-radius:8px;font-style:italic}
 .contact-form label{color:var(--ink)}
 .need .amt .tbc{font-size:.45em;padding:2px 6px}
+
+.enroll-wrap{overflow-x:auto;margin-top:24px;border-radius:var(--r);box-shadow:0 6px 20px rgba(80,30,10,.08)}
+.enroll{width:100%;border-collapse:collapse;background:#fff;min-width:560px}
+.enroll th,.enroll td{padding:12px 16px;text-align:left;border-bottom:1px solid #e4ebd8;vertical-align:top}
+.enroll thead th{background:var(--red);color:#fff;font-family:"Trebuchet MS","Segoe UI",Arial,sans-serif;font-weight:700;font-size:.92rem;border-bottom:0}
+.enroll td:nth-child(3),.enroll th:nth-child(3),.enroll tfoot td:nth-child(3){text-align:right;font-variant-numeric:tabular-nums}
+.enroll tfoot th,.enroll tfoot td{background:var(--red-l);border-bottom:0;font-family:"Trebuchet MS","Segoe UI",Arial,sans-serif;font-weight:700}
+@media (max-width:640px){
+  .enroll{font-size:.92rem}
+  .enroll th,.enroll td{padding:10px 12px}
+}

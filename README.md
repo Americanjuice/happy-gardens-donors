@@ -1,6 +1,6 @@
 # Friends of Happy Gardens
 
-Static donor site for Happy Gardens Community School (Lydia Awuor Onyango, Dagoretti South, Nairobi).
+Static donor site for Happy Garden Community School (HGCS), a program of Happy Garden Community Organization (HGCO). Founder Lydia Awuor Onyango. Kabiria, Dagoretti South, Nairobi County, Kenya.
 
 Lydia approved the site and the name “Friends of Happy Gardens” on November 17, 2026.
 
